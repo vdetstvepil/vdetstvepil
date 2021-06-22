@@ -8,8 +8,7 @@
 🏅 2nd place winner of the contest [Scientists Of The Future](https://ub.festivalnauki.ru/) (2019) <br />
 🏅 2nd place winner of the contest [Vysshiy Pilotash](https://olymp.hse.ru/projects/) (2020) <br />
 😎 Manager of a team of schoolchildren in the [IT Solutions School](https://www.itsolschool.ru/) (2021) <br />
-✏ Project manager of [Student Ambassadors Academy](https://sa-academy.tilda.ws) (since 2020)
- <br />
+✏ Head of the [Student Ambassadors Academy](https://sa-academy.tilda.ws) (since 2020)
  <br />
 
 ### Here are my ✨ _special_ ✨ repositories...
