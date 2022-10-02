@@ -13,4 +13,4 @@
 
 ### Here are my ✨ _special_ ✨ repositories...
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vdetstvepil)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vdetstvepil&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
